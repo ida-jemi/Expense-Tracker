@@ -1,5 +1,4 @@
-<h1>React Expense Tracker</h1>
-
+<h1>Expense Tracker</h1>
 A modern and intuitive Expense Tracker Web Application built using ReactJS and Apache ECharts to help users efficiently manage and visualize their monthly spending.
 
 <h3>Overview</h3>
